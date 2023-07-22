@@ -1,8 +1,7 @@
 # miniframework_php
-Pequeno framework criado com a arquitetura MVC, base para meus próximos projetos. Baseado em
-grades frameworks PHP. Codigo limpo e todos os recursos de configuração estão muito bem abstraindos, logo,
-verá apenas os recursos que seram usados para a aplicação.
-todos os recursos da arquitetura MVC do framework estão presente no diretorio App
+
+E aí! Acabei de criar um pequeno framework utilizando a arquitetura MVC, que servirá como a base para meus próximos projetos. Ele é inspirado em grandes frameworks PHP, o que garante um código limpo e com todos os recursos de configuração muito bem organizados. A vantagem é que você só verá os recursos que realmente serão usados na aplicação, graças ao Composer. Além disso, todos os recursos da arquitetura MVC do framework estão presentes no diretório "App". Estou animado com esse projeto e acredito que será muito útil para agilizar o desenvolvimento dos meus futuros trabalhos!
+
 
 <h3>O framework conta com:</h3>
 

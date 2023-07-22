@@ -2,7 +2,7 @@
 Pequeno framework criado com a arquitetura MVC, base para os próximos projetos. Baseado nos
 grades frameworks PHP, codigo limpo e todos os recursos de configuração estão muito bem abstraindos, logo,
 verá apenas os recursos que seram usados para a sua aplicação.
-todos os recursos da arquitetura MVC estão presente no diretorio App
+todos os recursos da arquitetura MVC do framework estão presente no diretorio App
 
 <h3>O framework conta com:</h3>
 
